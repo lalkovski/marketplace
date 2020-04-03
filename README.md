@@ -1,6 +1,6 @@
-# Project Title
+# Marketplace
 
-The final project for the Zero to Mastery React Udemy Course.
+The final project for the Zero to Mastery React Udemy Course.<br/>
 A marketplace platform with user authentication.
 
 ## Screenshots
